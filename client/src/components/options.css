@@ -1,0 +1,10 @@
+.options {
+  display: flex;
+  flex-direction: column;
+}
+
+.button {
+  margin-top: 20px;
+  height: 30px;
+  width: 70px;
+}
